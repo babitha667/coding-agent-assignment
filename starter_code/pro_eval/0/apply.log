@@ -1,0 +1,10 @@
+/replay/model.patch:269: trailing whitespace.
+        
+/replay/model.patch:274: trailing whitespace.
+        
+Checking patch openlibrary/catalog/add_book/load_book.py...
+Checking patch openlibrary/mocks/mock_infobase.py...
+Applied patch openlibrary/catalog/add_book/load_book.py cleanly.
+Applied patch openlibrary/mocks/mock_infobase.py cleanly.
+warning: 2 lines add whitespace errors.
+apply_rc=0
